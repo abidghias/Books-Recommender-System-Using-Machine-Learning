@@ -68,8 +68,8 @@ streamlit run app.py
 
 ```bash
 Author: Abid Ghias
-Data Scientist
-Email: entbappy73@gmail.com
+Software Engineer
+Email: abidghias89@gmail.com
 
 ```
 
